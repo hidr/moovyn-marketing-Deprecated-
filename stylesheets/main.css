@@ -7641,7 +7641,7 @@ button.close {
     content: ""
 }
 .fa-linkedin:before {
-    content: ""
+    content: URL(/images/icons/misc/icon-linkedin.png)
 }
 .fa-rotate-left:before,
 .fa-undo:before {

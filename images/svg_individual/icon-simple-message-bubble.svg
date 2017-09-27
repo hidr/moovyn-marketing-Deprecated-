@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="70px" height="65px" viewbox="0 0 70 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="icon-simple-message-bubble" viewBox="0 0 70 65">
+    <title>Message bubble</title>
+    <defs/>
+    <g id="Marketing-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-259.000000, -4721.000000)" fill="currentColor">
+            <g id="Why-you&apos;ll-love-us" transform="translate(124.000000, 4247.000000)">
+                <g id="Support-&amp;-Guidance" transform="translate(0.000000, 474.000000)">
+                    <path d="M202.5,0 L137.5,0 C136.12,0 135,1.12 135,2.5 C135,3.88 136.12,5 137.5,5 L200,5 L200,45 L167.5,45 C167.3975,45 167.31,45.045 167.21,45.0575 C167.0425,45.0775 166.885,45.1025 166.7225,45.155 C166.5525,45.21 166.405,45.2875 166.255,45.3775 C166.1725,45.425 166.0775,45.44 166,45.5 L150,57.5 L150,47.5 L150,47.5 L150,47.5 C150,46.1175 148.88,45 147.5,45 L140,45 L140,12.5 C140,11.12 138.88,10 137.5,10 C136.12,10 135,11.12 135,12.5 L135,47.5 C135,48.8825 136.12,50 137.5,50 L145,50 L145,62.5 C145,63.4475 145.535,64.3125 146.3825,64.7375 C146.735,64.9125 147.12,65 147.5,65 C148.03,65 148.5575,64.8325 149,64.5 L168.3325,50 L202.5,50 C203.8825,50 205,48.8825 205,47.5 L205,2.5 C205,1.12 203.8825,0 202.5,0 L202.5,0 Z" id="Shape"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</symbol></svg>

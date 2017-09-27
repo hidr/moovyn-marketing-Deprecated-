@@ -7464,11 +7464,11 @@ button.close {
     content: ""
 }
 .fa-twitter:before {
-    content: URL(/icons/misc/icon-twitter.png);
+    content: URL(/images/icons/misc/icon-twitter.png);
 }
 .fa-facebook-f:before,
 .fa-facebook:before {
-    content: URL(/icons/misc/icon-facebook.png);
+    content: URL(/images/icons/misc/icon-facebook.png);
 }
 .fa-github:before {
     content: ""
@@ -8055,7 +8055,7 @@ button.close {
     content: ""
 }
 .fa-instagram:before {
-    content: URL(/icons/misc/icon-instagram.png)
+    content: URL(/images/icons/misc/icon-instagram.png)
 }
 .fa-flickr:before {
     content: ""

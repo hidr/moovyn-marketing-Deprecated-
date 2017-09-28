@@ -7061,7 +7061,7 @@ button.close {
 .fa-remove:before,
 .fa-close:before,
 .fa-times:before {
-    content: URL(/images/icons/misc/icon-close);
+    content: URL(/images/icons/misc/icon-close.png);
 }
 .fa-search-plus:before {
     content: ""

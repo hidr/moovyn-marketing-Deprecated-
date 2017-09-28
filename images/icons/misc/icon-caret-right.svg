@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="7px" height="11px" viewBox="0 0 7 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Right facing caret</title>
+    <desc>Indicates more information on another screen.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Step-Header---Completed" transform="translate(-538.000000, -33.000000)" fill="#00B93E">
+            <g id="">
+                <path d="M548.285727,34.6428472 C548.285727,34.2912843 547.994432,33.9999893 547.642869,33.9999893 L538.642858,33.9999893 C538.291295,33.9999893 538,34.2912843 538,34.6428472 C538,34.8136063 538.070313,34.9743208 538.190848,35.0948566 L542.690854,39.594862 C542.81139,39.7153979 542.972104,39.7857105 543.142863,39.7857105 C543.313622,39.7857105 543.474337,39.7153979 543.594873,39.594862 L548.094878,35.0948566 C548.215414,34.9743208 548.285727,34.8136063 548.285727,34.6428472 L548.285727,34.6428472 Z" transform="translate(543.142863, 38.499995) rotate(-90.000000) translate(-543.142863, -38.499995) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

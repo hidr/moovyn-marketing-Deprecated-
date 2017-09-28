@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Left facing carousel arrow</title>
+    <desc>Indicates previous navigation for carousel.</desc>
+    <defs></defs>
+    <g id="Seller-Instruction-(New)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0:-Select-Package" transform="translate(-44.000000, -460.000000)" fill="currentColor">
+            <path d="M56.9882353,467.717647 L65.2705882,476 L56.9882353,484.282353 L55.6705882,482.964706 L62.4470588,476.188235 L55.4823529,469.223529 L56.9882353,467.717647 L56.9882353,467.717647 Z M76,476 C76,484.847059 68.8470588,492 60,492 C51.1529412,492 44,484.847059 44,476 C44,467.152941 51.1529412,460 60,460 C68.8470588,460 76,467.152941 76,476 L76,476 Z M74.1176471,476 C74.1176471,468.282353 67.7176471,461.882353 60,461.882353 C52.2823529,461.882353 45.8823529,468.282353 45.8823529,476 C45.8823529,483.717647 52.2823529,490.117647 60,490.117647 C67.7176471,490.117647 74.1176471,483.717647 74.1176471,476 L74.1176471,476 Z" id="Shape" transform="translate(60.000000, 476.000000) rotate(-180.000000) translate(-60.000000, -476.000000) "></path>
+        </g>
+    </g>
+</svg>

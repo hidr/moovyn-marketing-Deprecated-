@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Right facing carousel arrow</title>
+    <desc>Indicates next navigation for carousel.</desc>
+    <defs></defs>
+    <g id="Seller-Instruction-(New)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0:-Select-Package" transform="translate(-284.000000, -460.000000)" fill="currentColor">
+            <path d="M296.988235,467.717647 L305.270588,476 L296.988235,484.282353 L295.670588,482.964706 L302.447059,476.188235 L295.482353,469.223529 L296.988235,467.717647 L296.988235,467.717647 Z M316,476 C316,484.847059 308.847059,492 300,492 C291.152941,492 284,484.847059 284,476 C284,467.152941 291.152941,460 300,460 C308.847059,460 316,467.152941 316,476 L316,476 Z M314.117647,476 C314.117647,468.282353 307.717647,461.882353 300,461.882353 C292.282353,461.882353 285.882353,468.282353 285.882353,476 C285.882353,483.717647 292.282353,490.117647 300,490.117647 C307.717647,490.117647 314.117647,483.717647 314.117647,476 L314.117647,476 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

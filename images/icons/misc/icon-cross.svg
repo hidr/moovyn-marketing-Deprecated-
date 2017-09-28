@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cross</title>
+    <desc>Typically goes back to a previous screen or closes parts of the interface.</desc>
+    <defs></defs>
+    <g id="Listing-(Mobile)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Listing---Gallery" transform="translate(-269.000000, -64.000000)" stroke="currentColor">
+            <g id="cross" transform="translate(269.000000, 64.000000)">
+                <path d="M0.5,0.5 L13.2279221,13.2279221" id="Line"></path>
+                <path d="M13.2279221,0.5 L0.5,13.2279221" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>

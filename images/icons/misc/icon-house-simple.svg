@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>House</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Timeline---5" transform="translate(-25.000000, -1172.000000)" fill="currentColor">
+            <g id="Launch" transform="translate(0.000000, 1147.000000)">
+                <path d="M39.707,25.793 C39.316,25.402 38.684,25.402 38.293,25.793 L25.293,38.793 C24.902,39.184 24.902,39.816 25.293,40.207 C25.684,40.598 26.316,40.598 26.707,40.207 L39,27.914 L47.014,35.928 C47.013,35.953 47,51 47,51 L31,51 L31,41 C31,40.447 30.552,40 30,40 C29.448,40 29,40.447 29,41 L29,52 C29,52.553 29.448,53 30,53 L48,53 C48.553,53 49,52.553 49,52 L49,37.914 L51.293,40.207 C51.488,40.402 51.744,40.5 52,40.5 C52.256,40.5 52.512,40.402 52.707,40.207 C53.098,39.816 53.098,39.184 52.707,38.793 L39.707,25.793 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

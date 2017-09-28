@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Half star</title>
+    <defs></defs>
+    <g id="Account---On-the-market" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Property---4.0-On-the-market---Offers---Offer-(Feedback)" transform="translate(-501.000000, -372.000000)" fill="currentColor">
+            <g id="Modal" transform="translate(351.000000, 128.000000)">
+                <g id="Living-areas" transform="translate(40.000000, 221.000000)">
+                    <path d="M120,23.5714126 C119.723558,23.5714126 119.519231,23.8358356 119.411058,24.064201 L116.706731,29.532951 L110.673077,30.4103549 C110.372596,30.4584318 110,30.6026626 110,30.9632395 C110,31.1795856 110.15625,31.3839126 110.300481,31.5401626 L114.675481,35.7949703 L113.641827,41.8045856 C113.629808,41.8887203 113.617788,41.9608356 113.617788,42.0449703 C113.617788,42.3574703 113.774038,42.6459318 114.122596,42.6459318 C114.290865,42.6459318 114.447115,42.5858356 114.603365,42.501701 L120,39.6651626" id="fa-star"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

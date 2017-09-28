@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="9px" height="17px" viewBox="0 0 9 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Left facing chevron</title>
+    <defs></defs>
+    <g id="Listing-(Mobile)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Listing---Mobile" transform="translate(-6.000000, -151.000000)" fill="currentColor">
+            <g id="Forward" transform="translate(-8.000000, 159.000000) scale(-1, 1) translate(8.000000, -159.000000) translate(-43.000000, 107.000000)">
+                <path d="M13.4132045,44.2417727 C13.0900227,43.9194091 12.5663864,43.9194091 12.2423864,44.2417727 C11.9192045,44.5641364 11.9192045,45.0877727 12.2423864,45.4101364 L19.0234773,52.1887727 L12.2432045,58.9674091 C11.9200227,59.2897727 11.9200227,59.8134091 12.2432045,60.1365909 C12.5663864,60.4589545 13.0908409,60.4589545 13.4140227,60.1365909 L20.7792955,52.7737727 C21.0975682,52.4546818 21.0975682,51.9228636 20.7784773,51.6045909 L13.4132045,44.2417727 Z" id="Chevron_Right"></path>
+            </g>
+        </g>
+    </g>
+</svg>

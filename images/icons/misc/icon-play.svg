@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="48px" viewBox="0 0 41 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play</title>
+    <desc>Plays a video</desc>
+    <defs></defs>
+    <g id="Landing-Page-(3)-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-1352.000000, -1012.000000)" fill="#FFFFFF">
+            <g id="Hero" transform="translate(-287.000000, 18.000000)">
+                <g id="watch-our-ad" transform="translate(1491.000000, 882.000000)">
+                    <g id="Play" transform="translate(72.000000, 112.000000)">
+                        <g id="Group-6">
+                            <path d="M114.255947,26.68139 L80.6007354,46.8775115 C79.6575511,47.4449192 78.7622745,47.7548226 78.0825829,47.7548226 C76.6797834,47.7548226 76.4701869,45.7397019 76.4701869,44.5405104 L76.4701869,3.49552398 C76.4701869,2.29483537 76.6797834,0.279714577 78.0825829,0.279714577 C78.7622745,0.279714577 79.6575511,0.591115116 80.6007354,1.15702571 L114.255947,21.3486558 C115.622816,22.1690765 116.470185,23.191608 116.470185,24.0180172 C116.471682,24.8414321 115.622816,25.8624665 114.255947,26.68139 L114.255947,26.68139 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

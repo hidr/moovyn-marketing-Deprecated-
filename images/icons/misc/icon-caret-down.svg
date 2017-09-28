@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="6px" viewBox="0 0 11 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Down facing caret</title>
+    <desc>Indicates more content below or in a dropdown menu.</desc>
+    <defs></defs>
+    <g id="Account---Selling-My-Property-Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Selling-Overview---6.0-Sales-Progression" transform="translate(-888.000000, -634.000000)" fill="currentColor">
+            <g id="Step-Header---Completed" transform="translate(350.000000, 600.000000)">
+                <path d="M548.285727,34.6428472 C548.285727,34.2912843 547.994432,33.9999893 547.642869,33.9999893 L538.642858,33.9999893 C538.291295,33.9999893 538,34.2912843 538,34.6428472 C538,34.8136063 538.070313,34.9743208 538.190848,35.0948566 L542.690854,39.594862 C542.81139,39.7153979 542.972104,39.7857105 543.142863,39.7857105 C543.313622,39.7857105 543.474337,39.7153979 543.594873,39.594862 L548.094878,35.0948566 C548.215414,34.9743208 548.285727,34.8136063 548.285727,34.6428472 L548.285727,34.6428472 Z" id="" transform="translate(543.142863, 38.499995) rotate(-360.000000) translate(-543.142863, -38.499995) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

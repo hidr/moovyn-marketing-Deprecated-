@@ -7434,7 +7434,7 @@ button.close {
     content: ""
 }
 .fa-external-link:before {
-    content: ""
+    content: URL(/images/icons/misc/icon-external-link.png)
 }
 .fa-sign-in:before {
     content: ""

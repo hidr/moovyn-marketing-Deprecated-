@@ -7029,7 +7029,7 @@ button.close {
     content: ""
 }
 .fa-envelope-o:before {
-    content: ""
+    content: URL(/images/icons/misc/icon-envelope.png);
 }
 .fa-heart:before {
     content: ""
@@ -7210,7 +7210,7 @@ button.close {
     content: ""
 }
 .fa-map-marker:before {
-    content: ""
+    content: URL(/images/icons/misc/icon-map-marker.png);
 }
 .fa-adjust:before {
     content: ""
@@ -7452,7 +7452,7 @@ button.close {
     content: ""
 }
 .fa-phone:before {
-    content: ""
+    content: URL(/images/icons/misc/icon-phone.png)
 }
 .fa-square-o:before {
     content: ""

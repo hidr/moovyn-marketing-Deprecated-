@@ -1,5 +1,5 @@
 RewriteEngine On
 
-Redirect 302 /properties/ http://marketing.moovyn.com/maintenance/
-Redirect 302 /book-a-valuation/* http://marketing.moovyn.com/maintenance/
-Redirect 302 /my-account/* http://marketing.moovyn.com/maintenance/
+RedirectMatch 302 ^/properties/.*$ http://marketing.moovyn.com/maintenance/
+RedirectMatch 302 ^/book-a-valuation/.*$ http://marketing.moovyn.com/maintenance/
+RedirectMatch 302 ^/my-account/.*$ http://marketing.moovyn.com/maintenance/

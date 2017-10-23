@@ -18853,5 +18853,10 @@ p.Instruction-option__price {
 
 .kidderminster {
   padding-bottom: 1px;
-  background: linear-gradient( rgba(0, 185, 145, 0.45), rgba(0, 185, 145, 0.45)), url(/images/kidderminster-bg.jpg);
+  background: linear-gradient( rgba(0, 185, 145, 1), rgba(0, 185, 145, 0.6)), url(/images/kidderminster-bg.jpg);
+}
+
+.worcester {
+  padding-bottom: 1px;
+  background: linear-gradient( rgba(0, 185, 145, 1), rgba(0, 185, 145, 0.6)), url(/images/worcester-bg.jpg);
 }

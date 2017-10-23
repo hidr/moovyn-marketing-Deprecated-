@@ -18840,15 +18840,15 @@ p.Instruction-option__price {
 /*----- AREA BACKGROUNDS -----*/
 
 .area-bg h1 {
-  color: #FFF
+  color: #FFF;
 }
 
 .area-bg h3 {
-  color: #FFF
+  color: #FFF !important;
 }
 
 .area-bg agent-panel agent-location {
-  color: #FFF
+  color: #FFF;
 }
 
 .kidderminster {

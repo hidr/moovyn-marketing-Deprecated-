@@ -18836,3 +18836,23 @@ p.Instruction-option__price {
     position: absolute;
     top: 0
 }
+
+/*----- AREA BACKGROUNDS -----*/
+
+.area-bg {
+  padding-bottom: 1px;
+  background: linear-gradient( rgba(0, 185, 145, 0.45), rgba(0, 185, 145, 0.45));
+}
+
+.area-bg h1 {
+  color: #FFF
+}
+
+.area-bg h3 {
+  color: #FFF
+}
+
+.kidderminster {
+  padding-bottom: 1px;
+  background-image: url(/images/kidderminster-bg.jpg);
+}

@@ -18861,6 +18861,11 @@ p.Instruction-option__price {
   background: linear-gradient( rgba(0, 185, 145, 1), rgba(0, 185, 145, 0.6)), url(/images/worcester-bg.jpg);
 }
 
+.ap-banner {
+  padding-bottom: 1px;
+  background: linear-gradient( rgba(0, 185, 145, 1), rgba(125, 0, 145, 0.6)), url(/images/worcester-bg.jpg);
+}
+
 .AP-alert {
   background-color: #642283;
   color: #FFFFFF;
